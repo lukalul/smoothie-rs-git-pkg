@@ -18,7 +18,7 @@ fork against your system's current LLVM instead of the archived llvm15.
 ## Install
 
 ```sh
-git clone <this-repo-url>
+git clone https://github.com/lukalul/smoothie-rs-git-pkg.git
 cd smoothie-rs-git-pkg
 makepkg -si
 ```
